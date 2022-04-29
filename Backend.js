@@ -273,7 +273,7 @@ switch(operation){
         break;
     case 'returnWallet':
         console.log('returnWallet');
-        myContract.methods.returnWallet(process.argv[3]).send({gas: '200000'}).then(console.log);
+        myContract.methods.returnWallet(process.argv[3]).send({from: owner.address, gas: '200000'}).then(console.log);
         break;
     case 'lockWallet':
         console.log('lockWallet');
