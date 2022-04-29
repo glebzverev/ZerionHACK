@@ -18,3 +18,5 @@ Solution for Zerion P2P ledger
     Смарт контракт размещён в BSC Testnet
     Адрес контракта 0xF97b620814e18b0ee8Ddf857E7C73EfEc4652bAc
     abi контракта можно посмотреть в файле ZerionP2P_ledgerABI.json
+
+*Чтобы запустить Backend.js необходимо обладать приватным ключом от кошелька владельца*
