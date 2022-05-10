@@ -23,3 +23,17 @@ Solution for Zerion P2P ledger
     Папка с изображениями интерфейса работы командной строки
 
 *Чтобы запустить Backend.js необходимо обладать приватным ключом от кошелька владельца*
+
+## Пример вызовов с использованием CLI
+
+### Return wallet
+[image](https://github.com/glebzverev/ZerionHACK/blob/main/CLI_interface/returnWallet.png)
+
+### SetCourse
+[image](https://github.com/glebzverev/ZerionHACK/blob/main/CLI_interface/setCourse.png)
+
+### Withdraw
+[image](https://github.com/glebzverev/ZerionHACK/blob/main/CLI_interface/withdraw.png)
+
+### Транзакции
+[image](https://github.com/glebzverev/ZerionHACK/blob/main/CLI_interface/%D0%A2%D1%80%D0%B0%D0%BD%D0%B0%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%20BSC%20Testnet.png)
